@@ -63,7 +63,7 @@ I am going to talk about the reversed method in ArrayExamples
 ```
 3. ![image](https://user-images.githubusercontent.com/62564887/215289625-624e5075-9ea7-4de2-9412-4035129097bc.png)
 4. Before and after code
-··* Before
+  * Before
 ```Java
 static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
@@ -73,7 +73,7 @@ static int[] reversed(int[] arr) {
     return arr;
   }
 ```
-··* After
+  * After
 ```Java
 static int[] reversed(int[] arr) {
     int[] newArray = new int[arr.length];
