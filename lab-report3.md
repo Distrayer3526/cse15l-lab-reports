@@ -15,6 +15,7 @@ Output:
 Input:
 
 `grep -r "Lucayans" .`
+
 Output: 
 
 `./written_2/travel_guides/berlitz2/Bahamas-History.txt:Centuries before the arrival of Columbus, a peaceful Amerindian people who called themselves the Luccucairi had settled in the Bahamas. Originally from South America, they had traveled up through the Caribbean islands, surviving by cultivating modest crops and from what they caught from sea and shore. Nothing in the experience of these gentle people could have prepared them for the arrival of the Pinta, the Niña, and the Santa Maria at San Salvador on 12 October 1492. Columbus believed that he had reached the East Indies and mistakenly called these people Indians. We know them today as the Lucayans. Columbus claimed the island and others in the Bahamas for his royal Spanish patrons, but not finding the gold and other riches he was seeking, he stayed for only two weeks before sailing towards Cuba.
@@ -27,6 +28,7 @@ Output:
 Input:
 
 `grep -rl "apparel" .`
+
 Output: 
 
 `./written_2/non-fiction/OUP/Abernathy/ch1.txt
@@ -45,6 +47,7 @@ Output:
 Input:
 
 `grep -rl "domestic"`
+
 Output:
 
 `./written_2/non-fiction/OUP/Abernathy/ch1.txt
@@ -99,6 +102,7 @@ Output:
 Input:
 
 `grep -rc "apparel" written_2/non-fiction/OUP/Abernathy/`
+
 Output:
 
 `written_2/non-fiction/OUP/Abernathy/ch1.txt:53
@@ -114,6 +118,7 @@ written_2/non-fiction/OUP/Abernathy/ch9.txt:14`
 Input:
 
 `grep -rc "domestic" written_2/non-fiction/OUP/Abernathy/`
+
 Output:
 
 `written_2/non-fiction/OUP/Abernathy/ch1.txt:7
@@ -133,6 +138,7 @@ written_2/non-fiction/OUP/Abernathy/ch9.txt:0`
 Input:
 
 `grep -n "apparel" written_2/non-fiction/OUP/Abernathy/ch6.txt`
+
 Output:
 
 `60:As Figure 6.6 shows, the safety stock needed to achieve a given customer service level is proportional to the standard deviation of the demand forecast.12 Simply put, the less certain retailers are of the demand for their product, the more safety stock they must hold to meet consumer needs. In the figure, we assume that the order-fulfillment rate equals 97 percent and the order-fulfillment lead time is three weeks. The parameter choices for the figures, although based on data from actual apparel firms, are for illustrative purposes only. By reducing order-fulfillment lead times, lean retailers are able to reduce the level of safety stock required to deal effectively with a given level of demand variation.
