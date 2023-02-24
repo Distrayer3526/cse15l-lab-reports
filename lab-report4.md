@@ -13,11 +13,11 @@ Then I go in my remote terminal and type the command `git clone git@github.com:D
   
 ![image](https://user-images.githubusercontent.com/62564887/221061295-c28ae89a-2d12-4685-a275-5d7ba44ed09d.png)
   
-5. To get the JUnit test commands I run `history | grep java<enter>` and then copy the specific command that I need. Then I run `cd l<tab>` and run the respective commands
+5. To get the JUnit test commands I run `history | grep java<enter>` and then copy the specific command that I need. Then I run `cd l<tab><enter>` and run the respective commands
   
 ![image](https://user-images.githubusercontent.com/62564887/221061923-ff2844c2-a78d-4be9-b2bd-0bb1a2b0d4e5.png)
   
-6. To fix the file I run `vim L<tab>`, press `i`, go to the last while loop and change `index1` to `index2`, and then press `esc` and put `:wq<enter>` to save my changes
+6. To fix the file I run `vim L<tab><enter>`, press `i`, go to the last while loop and change `index1` to `index2`, and then press `esc` and put `:wq<enter>` to save my changes
   
 ![image](https://user-images.githubusercontent.com/62564887/221062450-b2556b0b-2231-4d26-bad6-7352ea242db6.png)
   
