@@ -5,7 +5,8 @@
 2. Next I fork the original repository again by pressing the fork button
 ![image](https://user-images.githubusercontent.com/62564887/221060336-e8d83544-e4d3-4c49-95ae-828a06844cb4.png)
 3. Once I am in my local terminal I can press <up> and the ssh command for my account appears. Since we set up the ssh key I don't have to type my password anymore to log in
-  ![image](https://user-images.githubusercontent.com/62564887/221060885-387181bb-7727-43ed-bc8f-39bcfffa947e.png)
+  
+![image](https://user-images.githubusercontent.com/62564887/221060885-387181bb-7727-43ed-bc8f-39bcfffa947e.png)
   
 4. To clone my repository I first get the ssh link from my fork. 
 ![image](https://user-images.githubusercontent.com/62564887/221061113-47a3f0f0-11ea-4ca5-872d-ee86a3c7a6b9.png)
