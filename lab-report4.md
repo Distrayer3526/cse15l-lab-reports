@@ -1,6 +1,7 @@
 1. First I made sure to delete my fork of the repository. Do that I had to type the repository location in my github account and press enter. 
 
 ![image](https://user-images.githubusercontent.com/62564887/221060171-d79c8d3a-1595-4bf4-97cf-22770c63bc7f.png)
+
 2. Next I fork the original repository again by pressing the fork button
 ![image](https://user-images.githubusercontent.com/62564887/221060336-e8d83544-e4d3-4c49-95ae-828a06844cb4.png)
 3. Once I am in my local terminal I can press <up> and the ssh command for my account appears. Since we set up the ssh key I don't have to type my password anymore to log in
