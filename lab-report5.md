@@ -7,3 +7,7 @@ One way I found to do this was the `SED` command. It is mostly used for searchin
 ## Putting it in a `bash` file
 The rest of the commands needed for this assignment could simply be put directly into the bash file. I did, however, make the CPATH variable to make it a bit easier if I had to switch between operating systems. The final `bash` script was:
 ![image](https://user-images.githubusercontent.com/62564887/224517510-f048b3c4-ea24-4f99-a179-e8494c56384e.png)
+
+If I run the command this is the output that I get:
+![image](https://user-images.githubusercontent.com/62564887/224847930-4a1fa2e7-1172-4916-be30-fb7bfaadbc19.png)
+Like before, the first time I run JUnit there was a faliure in the tests but the second time all tests passed. Then we can also see all the dialogue associated with pushing the commit to the origin. Since everything ran as expected, my bash file was a success and I would've been able to do it within 5 seconds in the competition (if it was allowed).
